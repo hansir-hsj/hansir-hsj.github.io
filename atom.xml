@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hansir-hsj.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-03T12:07:36.935Z</updated>
+    <title>Hansir</title>
+    <updated>2020-07-03T12:21:09.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hansir-hsj.github.io"/>
     <link rel="self" href="https://hansir-hsj.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>做一个爱分享的人</subtitle>
     <logo>https://hansir-hsj.github.io/images/avatar.png</logo>
     <icon>https://hansir-hsj.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Hansir</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hansir-hsj.github.io/post/hello-gridea/</id>
