@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hansir-hsj.github.io</id>
-    <title>Hansir</title>
-    <updated>2020-07-03T12:26:58.233Z</updated>
+    <title>Hansirの笔记</title>
+    <updated>2020-07-03T14:02:10.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hansir-hsj.github.io"/>
     <link rel="self" href="https://hansir-hsj.github.io/atom.xml"/>
-    <subtitle>做一个爱分享的人</subtitle>
+    <subtitle>The master has failed more times than the beginner has tried.</subtitle>
     <logo>https://hansir-hsj.github.io/images/avatar.png</logo>
     <icon>https://hansir-hsj.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Hansir</rights>
+    <rights>All rights reserved 2020, Hansirの笔记</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hansir-hsj.github.io/post/hello-gridea/</id>
